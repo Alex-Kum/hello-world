@@ -9,4 +9,5 @@ int add(int a, int b){
 int main(){
     cout << "test" << endl;
     cout << add(3,5) << endl;
+    cout << "test2" << endl;
 }
